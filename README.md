@@ -14,7 +14,7 @@ Run the notebooks in the folowing order :
 
 - mk_pickle.ipynb
 - pred_seism_aftXYZ.data_exp.ipynb
-- pred_seism_aftXYZ.etl.ipynb (Not Added Yet)
+- pred_seism_aftXYZ.etl.ipynb
 - pred_seism_aftXYZ.feature_eng.ipynb (Not Added Yet)
 - pred_seism_aftXYZ.model_def.ipynb (Not Added Yet)
 - pred_seism_aftXYZ.model_train.ipynb (Not Added Yet)
