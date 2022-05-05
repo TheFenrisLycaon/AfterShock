@@ -19,4 +19,4 @@ Run the notebooks in the folowing order :
 - pred_seism_aftXYZ.model_def.ipynb
 - pred_seism_aftXYZ.model_train.ipynb
 - pred_seism_aftXYZ.model_evaluate.ipynb
-- pred_seism_aftXYZ.model_deployment.ipynb (Not Added Yet)
+- pred_seism_aftXYZ.model_deployment.ipynb
