@@ -12,11 +12,11 @@ This repo includes, chronologically:
 
 Run the notebooks in the folowing order :
 
-- mk_pickle.ipynb
-- pred_seism_aftXYZ.data_exp.ipynb
-- pred_seism_aftXYZ.etl.ipynb
-- pred_seism_aftXYZ.feature_eng.ipynb
-- pred_seism_aftXYZ.model_def.ipynb
-- pred_seism_aftXYZ.model_train.ipynb
-- pred_seism_aftXYZ.model_evaluate.ipynb
-- pred_seism_aftXYZ.model_deployment.ipynb
+- [mk_pickle.ipynb](https://nbviewer.jupyter.org/github/TheFenrisLycaon/AfterShock/blob/main/00-mk_pickle.ipynb)
+- [pred_seism_aftXYZ.data_exp.ipynb](https://nbviewer.jupyter.org/github/TheFenrisLycaon/AfterShock/blob/main/01-pred_seism_aftXYZ.data_exp.ipynb)
+- [pred_seism_aftXYZ.etl.ipynb](https://nbviewer.jupyter.org/github/TheFenrisLycaon/AfterShock/blob/main/02-pred_seism_aftXYZ.etl.ipynb)
+- [pred_seism_aftXYZ.feature_eng.ipynb](https://nbviewer.jupyter.org/github/TheFenrisLycaon/AfterShock/blob/main/03-pred_seism_aftXYZ.feature_eng.ipynb)
+- [pred_seism_aftXYZ.model_def.ipynb](https://nbviewer.jupyter.org/github/TheFenrisLycaon/AfterShock/blob/main/04-pred_seism_aftXYZ.model_def.ipynb)
+- [pred_seism_aftXYZ.model_train.ipynb](https://nbviewer.jupyter.org/github/TheFenrisLycaon/AfterShock/blob/main/05-pred_seism_aftXYZ.model_train.ipynb)
+- [pred_seism_aftXYZ.model_evaluate.ipynb](https://nbviewer.jupyter.org/github/TheFenrisLycaon/AfterShock/blob/main/06-pred_seism_aftXYZ.model_evaluate.ipynb)
+- [pred_seism_aftXYZ.model_deployment.ipynb](https://nbviewer.jupyter.org/github/TheFenrisLycaon/AfterShock/blob/main/07-pred_seism_aftXYZ.model_deployment.ipynb)
